@@ -15,6 +15,9 @@ namespace helloworld
             string b = "2";//modified 2
             string c = "3";//modified 3
 
+            string str1 = "1";//verion1
+
+
         }
     }
 }
