@@ -15,11 +15,14 @@ namespace helloworld
             string b = "2";//modified 2
             string c = "3";//modified 3
 
+<<<<<<< HEAD
             string str1 = "1";//verion1
             string str2 = "2";//version2
             string str4 = "4";//version 4
 
 
+=======
+>>>>>>> parent of a403074... version 1.0
         }
     }
 }
