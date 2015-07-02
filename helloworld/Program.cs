@@ -17,6 +17,7 @@ namespace helloworld
 
             string str1 = "1";//verion1
             string str2 = "2";//version2
+            string str3 = "3";//version 3
 
 
 
